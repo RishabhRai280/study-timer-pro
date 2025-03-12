@@ -54,13 +54,28 @@ study-timer-pro/
 
 ## 🛠 Installation
 
-### **🔹 Prerequisites**
+### **🔹 Install via PyPI**
+You can install Study Timer Pro directly using pip:
+
+```bash
+pip install study-timer-pro
+```
+
+Then, run it using:
+```bash
+study-timer-pro
+```
+
+---
+
+### **🔹 Install from Source (Development Setup)**
+
+#### **Prerequisites**
 - **Python 3.8+**  
 - **Tkinter** (Usually included with Python)  
 - **Administrator Privileges** (For app & website blocking features)  
 
-### **🔹 Development Environment Setup**
-
+#### **Development Environment Setup**
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/RishabhRai280/study-timer-pro

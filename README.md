@@ -90,6 +90,8 @@ study-timer-pro/
 
 ## 🎯 Usage Guide
 
+![UI](docs/screenshots/UI.mp4)
+
 ### **Timer**
 - Set **focus and break durations** in the **Timer Tab**  
 - Click **Start Timer** to begin  

@@ -312,7 +312,7 @@ class StudyTimerApp:
                fg=self.settings.colors['fg']).pack(pady=10)
         
         tk.Label(about_window,
-               text="Version 2.1",
+               text="Version 1.0.0",
                bg=self.settings.colors['bg'],
                fg=self.settings.colors['fg']).pack()
         
@@ -323,7 +323,7 @@ class StudyTimerApp:
                justify=tk.CENTER).pack(pady=20)
         
         tk.Label(about_window,
-               text="© 2023 Study Timer Pro",
+               text="© 2025 Study Timer Pro",
                bg=self.settings.colors['bg'],
                fg=self.settings.colors['fg']).pack(pady=10)
         

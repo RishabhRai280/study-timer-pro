@@ -90,7 +90,7 @@ study-timer-pro/
 
 ## 🎯 Usage Guide
 
-![UI](docs/screenshots/UI.mp4)
+[![UI Preview](docs/screenshots/UI.gif)](https://github.com/RishabhRai280/study-timer-pro/raw/main/docs/screenshots/UI.mp4)
 
 ### **Timer**
 - Set **focus and break durations** in the **Timer Tab**  

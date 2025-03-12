@@ -1,0 +1,8 @@
+tkinter
+pygame==2.5.2
+matplotlib==3.7.2
+numpy==1.24.3
+Pillow==10.0.0
+psutil==5.9.5
+plyer==2.1.0
+requests==2.31.0
